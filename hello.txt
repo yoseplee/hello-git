@@ -5,11 +5,7 @@ let's try modifying text below.
 kindly delete the text and type anything you want except bad words such as f-words.
 
 -----------------------------------
-DELETE THIS TEXT AND TYPE ANYTHING
-DELETE THIS TEXT AND TYPE ANYTHING
-DELETE THIS TEXT AND TYPE ANYTHING
-DELETE THIS TEXT AND TYPE ANYTHING
-DELETE THIS TEXT AND TYPE ANYTHING
+
 DELETE THIS TEXT AND TYPE ANYTHING
 -----------------------------------
 
