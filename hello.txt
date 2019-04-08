@@ -5,9 +5,9 @@ let's try modifying text below.
 kindly delete the text and type anything you want except bad words such as f-words.
 
 -----------------------------------
-DELETE THIS TEXT AND TYPE ANYTHING
-DELETE THIS TEXT AND TYPE ANYTHING
-I am hungry now..
+I want to play
+I want to go home
+I need food
 -----------------------------------
 
 Multiple Collaborators will modify the text above.
